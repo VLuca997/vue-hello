@@ -1,39 +1,18 @@
-/*
+/* BG */
+.spiderman{
+        background-size: cover;
+        object-fit: cover;
+        background-position: center;
+        max-width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        
 
-        HEADER
-
-*/
-
-
-
-
-
-
-
-/*
-
-        MAIN
-
-*/
-
-
-
-
-
-
-
-
-/*
-
-        FOOTER
-
-*/
-
-
-
-
-/*
-
-        DEBUG
-
-*/
+}
+body{
+        background-color: black;
+}
+p{
+        font-family: monospace;
+        color: rgba(255, 251, 0, 0.359);
+}
